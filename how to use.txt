@@ -1,0 +1,9 @@
+1-	First register on https://uptimerobot.com and get api under setting section
+2-	Now run our program using command python robor.py (robot is file name)
+3-	It will check if Mysqldb package is installed,in case if it is not installed
+4-	It will print the message and user to do you want to install or proceed further
+Without mysql 
+5-	It will check if requests package are installed which is required
+6-	Then it ask user to input api key 
+7-	After verifying api key successfully,it will display menu 
+8-	Select any function from menu according to your need
