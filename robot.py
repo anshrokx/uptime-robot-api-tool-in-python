@@ -1,7 +1,7 @@
 #!C:\Python27\python.exe
 
 """
-copyright @ Anshuman Singh, not just another computer science engineer 
+copyright @ Anshuman Singh 
 mail- anshumanpbh@gmail.com
 """
 
