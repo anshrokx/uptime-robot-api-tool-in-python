@@ -1,4 +1,10 @@
 #!C:\Python27\python.exe
+
+"""
+copyright @ Anshuman Singh, not just another computer science engineer 
+mail- anshumanpbh@gmail.com
+"""
+
 """
      this is python program to check which website is going down at which time using uptimerrobot api,
      how to use-
